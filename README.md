@@ -1,2 +1,2 @@
 # dippy
-Python support of DIP database.
+DIP database Python API.
